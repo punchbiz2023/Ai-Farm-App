@@ -1,0 +1,7 @@
+[
+  {"id":"1","symbol":"RELIANCE","companyName":"Reliance Industries","quantity":10,"avgCost":2400.0,"currentPrice":2850.0,"currency":"INR"},
+  {"id":"2","symbol":"TCS","companyName":"Tata Consultancy Services","quantity":5,"avgCost":3500.0,"currentPrice":3920.0,"currency":"INR"},
+  {"id":"3","symbol":"INFY","companyName":"Infosys Ltd","quantity":20,"avgCost":1450.0,"currentPrice":1580.0,"currency":"INR"},
+  {"id":"4","symbol":"HDFC","companyName":"HDFC Bank","quantity":8,"avgCost":1600.0,"currentPrice":1490.0,"currency":"INR"},
+  {"id":"5","symbol":"WIPRO","companyName":"Wipro Ltd","quantity":15,"avgCost":420.0,"currentPrice":480.0,"currency":"INR"}
+]
